@@ -84,7 +84,7 @@ class obj {
       des.stroke()
       des.fill()
   
-      //desenhando asa dianteira
+      //desenhando asa dianteira.
       des.beginPath()
       des.lineWidth = '5'
       des.strokeStyle = 'blue'
